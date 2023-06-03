@@ -20,7 +20,7 @@ const Feed = () => {
       <Box sx={{height:{sx:'auto',md:'92vh'}, borderRight:'1px solid #3d3d3d', px:{sx:0,md:2}}}>
       <Sidebar selectedCategory={selectedCategory} setselectedCategory={setselectedCategory}/>
       <Typography className='copyright' variant='body' sx={{mt:1.5,color:'#fff'}}>
-         Copyright 2022 JSM Media
+         Copyright 2023 AnshadMedia
       </Typography>
       </Box>
 
